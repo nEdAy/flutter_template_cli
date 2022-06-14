@@ -1,0 +1,24 @@
+name: flutter_template_cli
+version: 1.0.2
+homepage: https://github.com/nEdAy/flutter_template_cli.git
+description: Official CLI for Flutter Template to build Flutter Modules easily
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  pubspec: ">=2.0.1 <3.0.0"
+  meta: ">=1.7.0 <2.0.0"
+  recase: ">=4.0.0 <5.0.0"
+  ansicolor: ">=2.0.1 <3.0.0"
+  process_run: ">=0.12.2 <1.0.0"
+  http: ">=0.13.4 <2.0.0"
+  path: ">=1.8.0  <2.0.0"
+  version: ">=2.0.0 <3.0.0"
+  intl: ">=0.17.0 <1.0.0"
+  cli_dialog: ">=0.5.0 <1.0.0"
+  dart_style: ">=2.0.1 <3.0.0"
+  yaml: ">=3.1.0 <4.0.0"
+  collection: ">=1.15.0 <2.0.0"
+
+executables:
+  ftc: cli
