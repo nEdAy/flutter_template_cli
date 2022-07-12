@@ -7,7 +7,7 @@ const dependencies = [
   'dio',
   'retrofit',
   'dio_http_formatter',
-  'network_inspector',
+  'dio_log',
   'json_annotation',
   'logger',
   'bot_toast',
@@ -17,6 +17,7 @@ const dependencies = [
 const devDependencies = [
   'flutter_lints',
   'build_runner',
+  'flutter_gen_runner',
   'retrofit_generator',
   'json_serializable'
 ];

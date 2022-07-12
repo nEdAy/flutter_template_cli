@@ -2,6 +2,9 @@
 
 # Flutter-Template-Cli Changelog
 
+## [1.0.4]
+- upgrade dependencies version
+
 ## [1.0.3]
 - upgrade template git url(private)
 
