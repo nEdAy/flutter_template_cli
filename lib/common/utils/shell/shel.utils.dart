@@ -16,7 +16,7 @@ class ShellUtils {
 
   static Future<void> copyFromTemplate() async {
     LogService.info('Running `git clone` …');
-    await run('git clone https://github.com/nEdAy/flutter-getx-with-null-safety-template.git .template',
+    await run('git clone http://gitlab.sunacwy.com.cn/smart-community/sunac-flutter/sunac_flutter_template.git .template',
         verbose: true);
 
     await run('mv .template/lib lib', verbose: false);
