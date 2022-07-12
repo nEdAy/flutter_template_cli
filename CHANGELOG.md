@@ -2,6 +2,9 @@
 
 # Flutter-Template-Cli Changelog
 
+## [1.0.3]
+- upgrade template git url(private)
+
 ## [1.0.2]
 - fixed FormatException: Not a properly formatted version string
 
